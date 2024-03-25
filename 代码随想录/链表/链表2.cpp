@@ -108,6 +108,3 @@ class MyLinkedList {
     }
 };
 
-int main() {
-    return 0;
-}

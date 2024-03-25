@@ -67,8 +67,3 @@ class Solution {
     }
 };
 
-int main() {
-    Solution test;
-    test.generateMatrix(4);
-    return 0;
-}

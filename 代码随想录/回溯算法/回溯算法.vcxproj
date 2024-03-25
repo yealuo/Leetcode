@@ -19,6 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="回溯10.cpp" />
+    <ClCompile Include="回溯11.cpp" />
+    <ClCompile Include="回溯12.cpp" />
+    <ClCompile Include="回溯13.cpp" />
+    <ClCompile Include="回溯14.cpp" />
+    <ClCompile Include="回溯15.cpp" />
+    <ClCompile Include="回溯16.cpp" />
     <ClCompile Include="回溯2.cpp" />
     <ClCompile Include="回溯3.cpp" />
     <ClCompile Include="回溯4.cpp" />

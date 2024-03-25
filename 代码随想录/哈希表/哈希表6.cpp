@@ -70,15 +70,3 @@ class Solution {
     }
 };
 
-int main() {
-    Solution test;
-    vector<int> v{0, 0, 0, 1000000000, 1000000000, 1000000000, 1000000000};
-    auto res = test.fourSum(v, 1000000000);
-    for (auto& elem1 : res) {
-        for (auto& elem2 : elem1) {
-            cout << elem2 << " ";
-        }
-        cout << endl;
-    }
-    return 0;
-}

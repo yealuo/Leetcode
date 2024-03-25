@@ -39,5 +39,26 @@
     <ClCompile Include="回溯9.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="回溯10.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯12.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯13.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯14.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="回溯16.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -68,23 +68,3 @@ void printList(ListNode* head) {
     }
     std::cout << std::endl;
 }
-
-int main() {
-    ListNode* node1 = new ListNode(1);
-    ListNode* node2 = new ListNode(5);
-    ListNode* node3 = new ListNode(5);
-    ListNode* node4 = new ListNode(6);
-    ListNode* node5 = new ListNode(5);
-
-    node1->next = node2;
-    node2->next = node3;
-    node3->next = node4;
-    node4->next = node5;
-
-    Solution test;
-    test.removeElements(node1, 5);
-
-    printList(node1);
-
-    return 0;
-}

@@ -52,9 +52,3 @@ class KMP {
         return -1;
     }
 };
-
-int main() {
-    KMP test;
-    test.kmp("babba", "bbb");
-    return 0;
-}
