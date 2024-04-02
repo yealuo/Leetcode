@@ -1,0 +1,18 @@
+# ninja log v5
+1	435	7337420288795966	CMakeFiles/Greedy_Algorithm_1.dir/Code_Musings/Greedy_Algorithm/Greedy_Algorithm_1.cpp.obj	1642f2af118ccfce
+1	482	7337421556735574	CMakeFiles/HJ16.dir/HUAWEI_Question/HJ16.cpp.obj	e9d81cbb3cdb1dfd
+662	874	7337455550934887	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ17.exe	2ba52c09867de8a4
+484	671	7337421558596091	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ16.exe	73ed62373fad98ac
+4	662	7337455548859736	CMakeFiles/HJ17.dir/HUAWEI_Question/HJ17.cpp.obj	5ad3bc4ceabc7990
+3	552	7337519482037492	CMakeFiles/HJ18.dir/HUAWEI_Question/HJ18.cpp.obj	53754c97e4d1945f
+553	742	7337519483923612	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe	2cf3b1e629f300ad
+1	578	7337527381969062	CMakeFiles/test.dir/HUAWEI_Question/test.cpp.obj	3d998a3a2d792f42
+579	749	7337527383625147	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe	dd345d112399d291
+4	526	7337527449251279	CMakeFiles/test.dir/HUAWEI_Question/test.cpp.obj	3d998a3a2d792f42
+527	696	7337527450911278	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe	dd345d112399d291
+3	542	7337539218395393	CMakeFiles/HJ18.dir/HUAWEI_Question/HJ18.cpp.obj	53754c97e4d1945f
+543	767	7337539220594100	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe	2cf3b1e629f300ad
+2	515	7337539693340407	CMakeFiles/HJ18.dir/HUAWEI_Question/HJ18.cpp.obj	53754c97e4d1945f
+515	715	7337539695300407	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe	2cf3b1e629f300ad
+3	559	7337540940456298	CMakeFiles/HJ18.dir/HUAWEI_Question/HJ18.cpp.obj	53754c97e4d1945f
+560	751	7337540942336282	D:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe	2cf3b1e629f300ad
