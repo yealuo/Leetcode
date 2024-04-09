@@ -140,6 +140,435 @@ build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe: CXX_EXECUT
   TARGET_PDB = HJ18.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target HJ19
+
+
+#############################################
+# Order-only phony target for HJ19
+
+build cmake_object_order_depends_target_HJ19: phony || CMakeFiles/HJ19.dir
+
+build CMakeFiles/HJ19.dir/HUAWEI_Question/HJ19.cpp.obj: CXX_COMPILER__HJ19_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ19.cpp || cmake_object_order_depends_target_HJ19
+  DEP_FILE = CMakeFiles\HJ19.dir\HUAWEI_Question\HJ19.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ19.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ19.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ19
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ19.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ19.exe: CXX_EXECUTABLE_LINKER__HJ19_Debug CMakeFiles/HJ19.dir/HUAWEI_Question/HJ19.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ19.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ19.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ19.dll.a
+  TARGET_PDB = HJ19.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ20
+
+
+#############################################
+# Order-only phony target for HJ20
+
+build cmake_object_order_depends_target_HJ20: phony || CMakeFiles/HJ20.dir
+
+build CMakeFiles/HJ20.dir/HUAWEI_Question/HJ20.cpp.obj: CXX_COMPILER__HJ20_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ20.cpp || cmake_object_order_depends_target_HJ20
+  DEP_FILE = CMakeFiles\HJ20.dir\HUAWEI_Question\HJ20.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ20.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ20.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ20
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ20.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ20.exe: CXX_EXECUTABLE_LINKER__HJ20_Debug CMakeFiles/HJ20.dir/HUAWEI_Question/HJ20.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ20.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ20.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ20.dll.a
+  TARGET_PDB = HJ20.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ21
+
+
+#############################################
+# Order-only phony target for HJ21
+
+build cmake_object_order_depends_target_HJ21: phony || CMakeFiles/HJ21.dir
+
+build CMakeFiles/HJ21.dir/HUAWEI_Question/HJ21.cpp.obj: CXX_COMPILER__HJ21_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ21.cpp || cmake_object_order_depends_target_HJ21
+  DEP_FILE = CMakeFiles\HJ21.dir\HUAWEI_Question\HJ21.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ21.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ21.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ21
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ21.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ21.exe: CXX_EXECUTABLE_LINKER__HJ21_Debug CMakeFiles/HJ21.dir/HUAWEI_Question/HJ21.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ21.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ21.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ21.dll.a
+  TARGET_PDB = HJ21.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ22
+
+
+#############################################
+# Order-only phony target for HJ22
+
+build cmake_object_order_depends_target_HJ22: phony || CMakeFiles/HJ22.dir
+
+build CMakeFiles/HJ22.dir/HUAWEI_Question/HJ22.cpp.obj: CXX_COMPILER__HJ22_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ22.cpp || cmake_object_order_depends_target_HJ22
+  DEP_FILE = CMakeFiles\HJ22.dir\HUAWEI_Question\HJ22.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ22.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ22.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ22
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ22.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ22.exe: CXX_EXECUTABLE_LINKER__HJ22_Debug CMakeFiles/HJ22.dir/HUAWEI_Question/HJ22.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ22.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ22.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ22.dll.a
+  TARGET_PDB = HJ22.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ23
+
+
+#############################################
+# Order-only phony target for HJ23
+
+build cmake_object_order_depends_target_HJ23: phony || CMakeFiles/HJ23.dir
+
+build CMakeFiles/HJ23.dir/HUAWEI_Question/HJ23.cpp.obj: CXX_COMPILER__HJ23_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ23.cpp || cmake_object_order_depends_target_HJ23
+  DEP_FILE = CMakeFiles\HJ23.dir\HUAWEI_Question\HJ23.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ23.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ23.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ23
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ23.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ23.exe: CXX_EXECUTABLE_LINKER__HJ23_Debug CMakeFiles/HJ23.dir/HUAWEI_Question/HJ23.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ23.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ23.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ23.dll.a
+  TARGET_PDB = HJ23.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ24
+
+
+#############################################
+# Order-only phony target for HJ24
+
+build cmake_object_order_depends_target_HJ24: phony || CMakeFiles/HJ24.dir
+
+build CMakeFiles/HJ24.dir/HUAWEI_Question/HJ24.cpp.obj: CXX_COMPILER__HJ24_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ24.cpp || cmake_object_order_depends_target_HJ24
+  DEP_FILE = CMakeFiles\HJ24.dir\HUAWEI_Question\HJ24.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ24.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ24.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ24
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ24.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ24.exe: CXX_EXECUTABLE_LINKER__HJ24_Debug CMakeFiles/HJ24.dir/HUAWEI_Question/HJ24.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ24.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ24.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ24.dll.a
+  TARGET_PDB = HJ24.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ25
+
+
+#############################################
+# Order-only phony target for HJ25
+
+build cmake_object_order_depends_target_HJ25: phony || CMakeFiles/HJ25.dir
+
+build CMakeFiles/HJ25.dir/HUAWEI_Question/HJ25.cpp.obj: CXX_COMPILER__HJ25_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ25.cpp || cmake_object_order_depends_target_HJ25
+  DEP_FILE = CMakeFiles\HJ25.dir\HUAWEI_Question\HJ25.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ25.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ25.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ25
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ25.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ25.exe: CXX_EXECUTABLE_LINKER__HJ25_Debug CMakeFiles/HJ25.dir/HUAWEI_Question/HJ25.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ25.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ25.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ25.dll.a
+  TARGET_PDB = HJ25.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ26
+
+
+#############################################
+# Order-only phony target for HJ26
+
+build cmake_object_order_depends_target_HJ26: phony || CMakeFiles/HJ26.dir
+
+build CMakeFiles/HJ26.dir/HUAWEI_Question/HJ26.cpp.obj: CXX_COMPILER__HJ26_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ26.cpp || cmake_object_order_depends_target_HJ26
+  DEP_FILE = CMakeFiles\HJ26.dir\HUAWEI_Question\HJ26.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ26.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ26.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ26
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ26.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ26.exe: CXX_EXECUTABLE_LINKER__HJ26_Debug CMakeFiles/HJ26.dir/HUAWEI_Question/HJ26.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ26.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ26.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ26.dll.a
+  TARGET_PDB = HJ26.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ27
+
+
+#############################################
+# Order-only phony target for HJ27
+
+build cmake_object_order_depends_target_HJ27: phony || CMakeFiles/HJ27.dir
+
+build CMakeFiles/HJ27.dir/HUAWEI_Question/HJ27.cpp.obj: CXX_COMPILER__HJ27_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ27.cpp || cmake_object_order_depends_target_HJ27
+  DEP_FILE = CMakeFiles\HJ27.dir\HUAWEI_Question\HJ27.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ27.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ27.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ27
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ27.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ27.exe: CXX_EXECUTABLE_LINKER__HJ27_Debug CMakeFiles/HJ27.dir/HUAWEI_Question/HJ27.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ27.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ27.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ27.dll.a
+  TARGET_PDB = HJ27.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ28
+
+
+#############################################
+# Order-only phony target for HJ28
+
+build cmake_object_order_depends_target_HJ28: phony || CMakeFiles/HJ28.dir
+
+build CMakeFiles/HJ28.dir/HUAWEI_Question/HJ28.cpp.obj: CXX_COMPILER__HJ28_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ28.cpp || cmake_object_order_depends_target_HJ28
+  DEP_FILE = CMakeFiles\HJ28.dir\HUAWEI_Question\HJ28.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ28.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ28.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ28
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ28.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ28.exe: CXX_EXECUTABLE_LINKER__HJ28_Debug CMakeFiles/HJ28.dir/HUAWEI_Question/HJ28.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ28.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ28.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ28.dll.a
+  TARGET_PDB = HJ28.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ29
+
+
+#############################################
+# Order-only phony target for HJ29
+
+build cmake_object_order_depends_target_HJ29: phony || CMakeFiles/HJ29.dir
+
+build CMakeFiles/HJ29.dir/HUAWEI_Question/HJ29.cpp.obj: CXX_COMPILER__HJ29_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ29.cpp || cmake_object_order_depends_target_HJ29
+  DEP_FILE = CMakeFiles\HJ29.dir\HUAWEI_Question\HJ29.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ29.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ29.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ29
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ29.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ29.exe: CXX_EXECUTABLE_LINKER__HJ29_Debug CMakeFiles/HJ29.dir/HUAWEI_Question/HJ29.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ29.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ29.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ29.dll.a
+  TARGET_PDB = HJ29.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ30
+
+
+#############################################
+# Order-only phony target for HJ30
+
+build cmake_object_order_depends_target_HJ30: phony || CMakeFiles/HJ30.dir
+
+build CMakeFiles/HJ30.dir/HUAWEI_Question/HJ30.cpp.obj: CXX_COMPILER__HJ30_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ30.cpp || cmake_object_order_depends_target_HJ30
+  DEP_FILE = CMakeFiles\HJ30.dir\HUAWEI_Question\HJ30.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ30.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ30.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ30
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ30.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ30.exe: CXX_EXECUTABLE_LINKER__HJ30_Debug CMakeFiles/HJ30.dir/HUAWEI_Question/HJ30.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ30.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ30.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ30.dll.a
+  TARGET_PDB = HJ30.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target HJ31
+
+
+#############################################
+# Order-only phony target for HJ31
+
+build cmake_object_order_depends_target_HJ31: phony || CMakeFiles/HJ31.dir
+
+build CMakeFiles/HJ31.dir/HUAWEI_Question/HJ31.cpp.obj: CXX_COMPILER__HJ31_unscanned_Debug D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/HJ31.cpp || cmake_object_order_depends_target_HJ31
+  DEP_FILE = CMakeFiles\HJ31.dir\HUAWEI_Question\HJ31.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\HJ31.dir
+  OBJECT_FILE_DIR = CMakeFiles\HJ31.dir\HUAWEI_Question
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target HJ31
+
+
+#############################################
+# Link the executable D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ31.exe
+
+build D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ31.exe: CXX_EXECUTABLE_LINKER__HJ31_Debug CMakeFiles/HJ31.dir/HUAWEI_Question/HJ31.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\HJ31.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\HJ31.exe
+  TARGET_IMPLIB = D:\Documents\Code\CLion\LeetCode\HUAWEI_Question\OUT\libHJ31.dll.a
+  TARGET_PDB = HJ31.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target test
 
 
@@ -210,6 +639,58 @@ build HJ18: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe
 
 build HJ18.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe
 
+build HJ19: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ19.exe
+
+build HJ19.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ19.exe
+
+build HJ20: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ20.exe
+
+build HJ20.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ20.exe
+
+build HJ21: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ21.exe
+
+build HJ21.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ21.exe
+
+build HJ22: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ22.exe
+
+build HJ22.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ22.exe
+
+build HJ23: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ23.exe
+
+build HJ23.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ23.exe
+
+build HJ24: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ24.exe
+
+build HJ24.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ24.exe
+
+build HJ25: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ25.exe
+
+build HJ25.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ25.exe
+
+build HJ26: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ26.exe
+
+build HJ26.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ26.exe
+
+build HJ27: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ27.exe
+
+build HJ27.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ27.exe
+
+build HJ28: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ28.exe
+
+build HJ28.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ28.exe
+
+build HJ29: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ29.exe
+
+build HJ29.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ29.exe
+
+build HJ30: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ30.exe
+
+build HJ30.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ30.exe
+
+build HJ31: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ31.exe
+
+build HJ31.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ31.exe
+
 build test: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe
 
 build test.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe
@@ -222,7 +703,7 @@ build test.exe: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test
 #############################################
 # Folder: D:/Documents/Code/CLion/LeetCode/cmake-build-debug
 
-build all: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ16.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ17.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe
+build all: phony D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ16.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ17.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ18.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ19.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ20.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ21.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ22.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ23.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ24.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ25.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ26.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ27.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ28.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ29.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ30.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/HJ31.exe D$:/Documents/Code/CLion/LeetCode/HUAWEI_Question/OUT/test.exe
 
 # =============================================================================
 # Built-in targets
