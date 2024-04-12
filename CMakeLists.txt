@@ -4,7 +4,7 @@ project(YourProjectName)
 set(CMAKE_CXX_STANDARD 17)
 
 # 递归搜索项目根目录下的所有 cpp 文件
-file(GLOB_RECURSE CPP_FILES ${CMAKE_CURRENT_SOURCE_DIR}/HUAWEI_Question/*.cpp)
+file(GLOB_RECURSE CPP_FILES ${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
 
 # 遍历所有找到的 cpp 文件，并生成相应的可执行文件
 foreach (CPP_FILE ${CPP_FILES})
